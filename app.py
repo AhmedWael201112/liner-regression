@@ -1,6 +1,6 @@
 
 
-pip install joblib
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -103,3 +103,4 @@ else:
     #cd "C:\Users\Ahmed\Desktop\linear regression project"
 
     #add
+
